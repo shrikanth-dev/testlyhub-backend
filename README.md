@@ -26,8 +26,9 @@ TestlyHub backend serves as the API layer and database management system for the
 - Payment integration-ready
 
 ### Links
-- [Live Site](https://your-testlihub-backend.onrender.com)
+- [Live Site](https://testlyhub-frontend.vercel.app/)
 - [GitHub Repository](https://github.com/shrikanth-dev/testlyhub-backend)
+- [Front-end GitHub Repository](https://github.com/shrikanth-dev/testlyhub-frontend)
 
 ### Built with
 - Node.js
